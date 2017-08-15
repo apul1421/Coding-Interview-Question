@@ -7,6 +7,38 @@
 //
 
 #include <iostream>
+using namespace std;
+
+class StackUnderFlowException{
+public:
+    StackUnderFlowException(){
+        cout<<"Stack UnderFlow";
+    }
+};
+
+struct Node{
+ 
+    int data;
+    Node* link;
+};
+
+class ListStack{
+ 
+private:
+    Node* top;
+    int count;
+    
+public:
+    ListStack()
+    {
+        top = NULL;
+        count=0;
+    }
+    
+    
+    
+    
+};
 
 int main(int argc, const char * argv[]) {
     // insert code here...
