@@ -7,4 +7,4 @@
 2. [To get fequency of each word in a string (Java)](https://github.com/apul1421/Coding-Interview-Question/blob/master/StackLinkedList/main.cpp)
 
 ### Maximum Pairwise Product
-3. [Maximum Pairwise Product from set of numbers]()
+3. [Maximum Pairwise Product from set of numbers](https://github.com/apul1421/Coding-Interview-Question/blob/master/PairwiseProduct.cpp)
