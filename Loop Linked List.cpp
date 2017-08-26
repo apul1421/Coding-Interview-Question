@@ -82,6 +82,7 @@ int main() {
     obj.insert(90);
     obj.insert(7);
     obj.display();
+    
     obj.head->next->next->next->next->next = obj.head->next;
     
     
