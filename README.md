@@ -14,4 +14,4 @@
 5. [Implementing Stack using Linked List (C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/StackLinkedList/main.cpp)
 
 ### Linked List Question
-6. [Basic Linked List Operations(C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/StackArray.cpp)
+6. [Basic Linked List Operations(C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/Linked%20List%20Basic.cpp)
