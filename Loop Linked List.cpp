@@ -34,7 +34,7 @@ public:
     
     }
     
-    void findloop(node *head){
+    void findloop(){
         node *slow = head;
         node *fast = head;
         
@@ -86,7 +86,7 @@ int main() {
     obj.head->next->next->next->next->next = obj.head->next;
     
     
-    obj.findloop(obj.head);
+    obj.findloop();
     
     return 0;
 }
