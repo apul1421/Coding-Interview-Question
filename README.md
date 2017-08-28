@@ -16,3 +16,4 @@
 ### Linked List Questions
 6. [Basic Linked List Operations (C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/Linked%20List%20Basic.cpp)
 7. [Detect Loop in Linked List (C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/Loop%20Linked%20List.cpp) [/ (Java)](https://github.com/apul1421/Coding-Interview-Question/blob/master/LinkedList.java)
+8.[Find Length of a Linked List](https://github.com/apul1421/Coding-Interview-Question/blob/master/Length%20List.cpp)
