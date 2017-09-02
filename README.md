@@ -19,4 +19,4 @@
 8. [Find Length of a Linked List](https://github.com/apul1421/Coding-Interview-Question/blob/master/Length%20List.cpp)
 
 ### HackerRank
-9. [HackerRank hour glass problem (C++)]()
+9. [HackerRank hour glass problem (C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/hourglassmatrix.cpp)
