@@ -21,3 +21,4 @@
 ### HackerRank
 9. [HackerRank hour glass problem (C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/hourglassmatrix.cpp)
 10. [Left rotation of array (C++)](https://github.com/apul1421/Coding-Interview-Question/blob/master/Array%20Rotation.cpp)
+11. [Sparse Array (Java)](https://github.com/apul1421/Coding-Interview-Question/blob/master/SparseArray.java)
